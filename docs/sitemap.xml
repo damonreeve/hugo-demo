@@ -3,17 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://damonreeve.github.io/hugo-demo/</loc>
+    <lastmod>2019-08-23T21:52:07+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://damonreeve.github.io/hugo-demo/introduction/getting-started/</loc>
     <lastmod>2019-08-23T21:52:07+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://damonreeve.github.io/hugo-demo/introduction/</loc>
-    <lastmod>2019-08-23T21:52:07+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://damonreeve.github.io/hugo-demo/</loc>
     <lastmod>2019-08-23T21:52:07+01:00</lastmod>
   </url>
   
