@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://damonreeve.github.io/hugo-demo/introduction/getting-started/</loc>
+    <lastmod>2019-08-23T21:52:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damonreeve.github.io/hugo-demo/introduction/</loc>
+    <lastmod>2019-08-23T21:52:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damonreeve.github.io/hugo-demo/</loc>
+    <lastmod>2019-08-23T21:52:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damonreeve.github.io/hugo-demo/introduction/welcome/</loc>
+    <lastmod>2019-08-23T21:52:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://damonreeve.github.io/hugo-demo/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://damonreeve.github.io/hugo-demo/tags/</loc>
+  </url>
+  
+</urlset>
