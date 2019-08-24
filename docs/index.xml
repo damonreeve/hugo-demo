@@ -17,7 +17,8 @@
       <pubDate>Fri, 23 Aug 2019 21:52:07 +0100</pubDate>
       
       <guid>//damonreeve.github.io/hugo-demo/introduction/getting-started/</guid>
-      <description>This is the second article.</description>
+      <description>This is the second article.
+This is where I add some more text</description>
     </item>
     
     <item>
@@ -26,7 +27,8 @@
       <pubDate>Fri, 23 Aug 2019 21:52:07 +0100</pubDate>
       
       <guid>//damonreeve.github.io/hugo-demo/introduction/welcome/</guid>
-      <description>This is the first article.</description>
+      <description>This is the first article.
+adding a link to Why Ozone</description>
     </item>
     
   </channel>
