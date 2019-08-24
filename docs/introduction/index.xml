@@ -12,13 +12,25 @@
     
     
     <item>
+      <title>Sample Document</title>
+      <link>//damonreeve.github.io/hugo-demo/introduction/sample/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/introduction/sample/</guid>
+      <description>Header H1 Header H2 Header H3 Header Paragraph Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
       <title>Getting Started</title>
       <link>//damonreeve.github.io/hugo-demo/introduction/getting-started/</link>
       <pubDate>Fri, 23 Aug 2019 21:52:07 +0100</pubDate>
       
       <guid>//damonreeve.github.io/hugo-demo/introduction/getting-started/</guid>
       <description>This is the second article.
-This is where I add some more text</description>
+This is where I add some more text
+This is embedding an image: This is embedding HTML  
+This is embedding a frame  This is embedding SVG PublishersPublishersAdvertisersAdvertisersAdTechAdTech
+This is publishing a link:</description>
     </item>
     
     <item>
