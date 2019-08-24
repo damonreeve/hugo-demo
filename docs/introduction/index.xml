@@ -22,6 +22,15 @@ This is where I add some more text</description>
     </item>
     
     <item>
+      <title>Important</title>
+      <link>//damonreeve.github.io/hugo-demo/introduction/important/</link>
+      <pubDate>Fri, 23 Aug 2019 21:52:07 +0100</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/introduction/important/</guid>
+      <description>This is Saturday night trying to work out why it wont&amp;rsquo; work:(</description>
+    </item>
+    
+    <item>
       <title>Welcome</title>
       <link>//damonreeve.github.io/hugo-demo/introduction/welcome/</link>
       <pubDate>Fri, 23 Aug 2019 21:52:07 +0100</pubDate>
