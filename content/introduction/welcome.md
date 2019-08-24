@@ -6,4 +6,4 @@ draft: false
 
 This is the first article.
 
-adding a link to [why-ozone.md]
+adding a link to [Why Ozone](why-ozone.md)
