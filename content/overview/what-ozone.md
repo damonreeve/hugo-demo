@@ -9,9 +9,42 @@ draft: false
 
 Ozone provides advertisers, publishers and their programmatic partners with a range of services for advertisers to reach audiences and for publishers to monetise their content and audience from advertising.
 
-Described here is a high-level overview of the programmatic ecosystem and how Ozone fits into this.
+Described here is a high-level overview of the programmatic ecosystem and Ozone's role.
 
-## Programmatic Advertising - at its most simple level
+## Programmatic Advertising - The Helicoptor View
+
+At it's most simple level programmatic advertising involves publishers and advertisers interacting with AdTech companies (we'll call them Ad Partners) that are a middlemen or brokers in the process of buying and selling advertising inventory and reaching audiences. Ad Partners offer many different services, business models and many of these services overlap with each other. The services can be generally organised into three categories
+
+# technology provision: licensing of saas technology to advertisers and publishers
+# data and analytics: provision of various data services that improve knowledge and understanding
+# mediation services: services that facilitate the programmatic trading process
+
+bearing in mind that a single Ad Partner can offer any/all of these services, separate and combined, with a variety of different economic models to support.
+
+### A bit more detail
+
+This simplistic view needs a bit more detail to be accurate as there are variations that are important.
+
+#### 1. Direct sales
+
+Publishers and Advertisers don't operate only programmatically. While declining in overall share of total adspend, directly sold campaign between publishers and advertisers exist and don't use programmatic Ad Partners.
+
+#### 2. Agency trading desks and managed services
+
+Agencies and advertisers often employ the services of specialists to manage their programmatic advertising on their behalf. Internally within agency groups these specialists are called trading desks, and independent companies are called managed services. 
+
+#### 3. Publisher Adserver
+
+The publisher adserver is an important technology in the progammatic ecosystem as this is often the technology service that makes the final decision over which advertiser will win a particular impression and have their advertisement displayed on the page.
+
+#### 4. Analytics and data providers
+
+Numerous data companies are involved in the process of buying/selling and analysing programmatic advertising and they have relationships with publishers, advertisers and their agencies as well as agency trading desks and managed services.
+
+### Deal Types
+
+### Real-time bidding
+
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="778px" viewBox="-0.5 -0.5 778 461" style="max-width:100%;max-height:461px;"><defs/><g><rect x="0" y="0" width="200" height="460" fill="#ffffff" stroke="#cccccc" pointer-events="none"/><g transform="translate(71.5,223.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="56" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 58px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Publishers</div></div></foreignObject><text x="28" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Publishers</text></switch></g><rect x="577" y="0" width="200" height="460" fill="#ffffff" stroke="#e6e6e6" pointer-events="none"/><g transform="translate(646.5,223.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="60" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 62px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Advertisers</div></div></foreignObject><text x="30" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Advertisers</text></switch></g><rect x="290" y="0" width="200" height="460" fill="#ffffff" stroke="#e6e6e6" pointer-events="none"/><g transform="translate(367.5,223.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="44" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 44px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Ad Tech</div></div></foreignObject><text x="22" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Ad Tech</text></switch></g><path d="M 206.37 40.87 L 280.63 40.07" fill="none" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 201.12 40.93 L 208.08 37.35 L 206.37 40.87 L 208.16 44.35 Z" fill="#b3b3b3" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 285.88 40.01 L 278.92 43.59 L 280.63 40.07 L 278.84 36.59 Z" fill="#b3b3b3" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 206.37 139.87 L 280.63 139.07" fill="none" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 201.12 139.93 L 208.08 136.35 L 206.37 139.87 L 208.16 143.35 Z" fill="#b3b3b3" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 285.88 139.01 L 278.92 142.59 L 280.63 139.07 L 278.84 135.59 Z" fill="#b3b3b3" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 206.37 270.87 L 280.63 270.07" fill="none" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 201.12 270.93 L 208.08 267.35 L 206.37 270.87 L 208.16 274.35 Z" fill="#b3b3b3" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 285.88 270.01 L 278.92 273.59 L 280.63 270.07 L 278.84 266.59 Z" fill="#b3b3b3" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 206.37 380.87 L 280.63 380.07" fill="none" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 201.12 380.93 L 208.08 377.35 L 206.37 380.87 L 208.16 384.35 Z" fill="#b3b3b3" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 285.88 380.01 L 278.92 383.59 L 280.63 380.07 L 278.84 376.59 Z" fill="#b3b3b3" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 496.37 30.87 L 570.63 30.07" fill="none" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 491.12 30.93 L 498.08 27.35 L 496.37 30.87 L 498.16 34.35 Z" fill="#b3b3b3" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 575.88 30.01 L 568.92 33.59 L 570.63 30.07 L 568.84 26.59 Z" fill="#b3b3b3" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 496.37 129.87 L 570.63 129.07" fill="none" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 491.12 129.93 L 498.08 126.35 L 496.37 129.87 L 498.16 133.35 Z" fill="#b3b3b3" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 575.88 129.01 L 568.92 132.59 L 570.63 129.07 L 568.84 125.59 Z" fill="#b3b3b3" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 496.37 260.87 L 570.63 260.07" fill="none" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 491.12 260.93 L 498.08 257.35 L 496.37 260.87 L 498.16 264.35 Z" fill="#b3b3b3" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 575.88 260.01 L 568.92 263.59 L 570.63 260.07 L 568.84 256.59 Z" fill="#b3b3b3" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 496.37 370.87 L 570.63 370.07" fill="none" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 491.12 370.93 L 498.08 367.35 L 496.37 370.87 L 498.16 374.35 Z" fill="#b3b3b3" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/><path d="M 575.88 370.01 L 568.92 373.59 L 570.63 370.07 L 568.84 366.59 Z" fill="#b3b3b3" stroke="#b3b3b3" stroke-miterlimit="10" pointer-events="none"/></g></svg>
 
