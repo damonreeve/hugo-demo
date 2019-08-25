@@ -6,26 +6,148 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Aug 2019 21:52:07 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="//damonreeve.github.io/hugo-demo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Bid Request Transmission</title>
+      <link>//damonreeve.github.io/hugo-demo/service/for-publishers/bid-request-transmission/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/service/for-publishers/bid-request-transmission/</guid>
+      <description> TODO  BR Transmission  Description - purpose, benefits, business model How it works - Run-time flow Service KPIs and SLAs Considerations  Legal Financial Data Policies  Controller / processor considerations Documents required (link to templates) Data flow   Getting started  Publishers requirements Setting up Managing Support    </description>
+    </item>
+    
+    <item>
+      <title>Why Ozone</title>
+      <link>//damonreeve.github.io/hugo-demo/overview/why-ozone/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/overview/why-ozone/</guid>
+      <description>Ozone was borne out of a shared belief in the rights and interests of consumers, publishers and advertisers.
+TODO Take content the docs to be sent to guardian summarise slides but add a perspective about the advertiser and needing greater choice. Is there a reader first model?</description>
+    </item>
+    
+    <item>
+      <title>Curated Demand</title>
+      <link>//damonreeve.github.io/hugo-demo/service/for-publishers/curated-demand/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/service/for-publishers/curated-demand/</guid>
+      <description> TODO </description>
+    </item>
+    
+    <item>
+      <title>How Ozone</title>
+      <link>//damonreeve.github.io/hugo-demo/overview/how-ozone/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/overview/how-ozone/</guid>
+      <description>TODO How Ozone: What we believe in and principles of business - Change rules of engagement - Publisher voice - Data leakage - Reader first mindset - guardian of user</description>
+    </item>
+    
+    <item>
+      <title>Product Process</title>
+      <link>//damonreeve.github.io/hugo-demo/product-engineering/product-process/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/product-engineering/product-process/</guid>
+      <description> TODO </description>
+    </item>
+    
+    <item>
+      <title>Development Process</title>
+      <link>//damonreeve.github.io/hugo-demo/product-engineering/development-process/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/product-engineering/development-process/</guid>
+      <description> TODO </description>
+    </item>
+    
+    <item>
+      <title>Managed Demand</title>
+      <link>//damonreeve.github.io/hugo-demo/service/for-publishers/managed-demand/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/service/for-publishers/managed-demand/</guid>
+      <description> TODO </description>
+    </item>
+    
+    <item>
+      <title>What Ozone</title>
+      <link>//damonreeve.github.io/hugo-demo/overview/what-ozone/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/overview/what-ozone/</guid>
+      <description>What is Ozone and how does it work? Ozone provides advertisers, publishers and their programmatic partners with a range of services for advertisers to reach audiences and for publishers to monetise their content and audience from advertising.
+Described here is a high-level overview of the programmatic ecosystem and how Ozone fits into this.
+Programmatic Advertising - at its most simple level PublishersPublishersAdvertisersAdvertisersAd TechAd Tech
+Next PublishersPublishersAdvertisersAdvertisersSSPSSPDSPDSPAgency Trading Desks / Managed Services[Not supported by viewer]DFPDFPAnalytics / Data / DMP / CDPAnalytics / Data / DMP / CDP</description>
+    </item>
+    
+    <item>
+      <title>Ozone Audience</title>
+      <link>//damonreeve.github.io/hugo-demo/service/for-publishers/ozone-audience/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/service/for-publishers/ozone-audience/</guid>
+      <description> TODO  OA  MS Deals Data Room   </description>
+    </item>
+    
+    <item>
+      <title>Services Summary</title>
+      <link>//damonreeve.github.io/hugo-demo/overview/services-overview/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/overview/services-overview/</guid>
+      <description>TODO Describe services which are customer facing.
+maybe organise by each stakeholder</description>
+    </item>
+    
+    <item>
+      <title>Technology Selection</title>
+      <link>//damonreeve.github.io/hugo-demo/product-engineering/technology-selection/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/product-engineering/technology-selection/</guid>
+      <description> TODO </description>
+    </item>
+    
+    <item>
+      <title>Analytics and Insights</title>
+      <link>//damonreeve.github.io/hugo-demo/service/for-publishers/analytics/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/service/for-publishers/analytics/</guid>
+      <description> TODO </description>
+    </item>
+    
+    <item>
+      <title>Components Overview</title>
+      <link>//damonreeve.github.io/hugo-demo/product-engineering/components/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/product-engineering/components/</guid>
+      <description> TODO  Components (Detail)  Describe (functional/logical) KPI / SLA Data flow Technologies Backlog / changelog   </description>
+    </item>
+    
+    <item>
       <title>Sample Document</title>
-      <link>//damonreeve.github.io/hugo-demo/introduction/sample/</link>
+      <link>//damonreeve.github.io/hugo-demo/old/sample/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>//damonreeve.github.io/hugo-demo/introduction/sample/</guid>
+      <guid>//damonreeve.github.io/hugo-demo/old/sample/</guid>
       <description>Header H1 Header H2 Header H3 Header Paragraph Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Getting Started</title>
-      <link>//damonreeve.github.io/hugo-demo/introduction/getting-started/</link>
+      <link>//damonreeve.github.io/hugo-demo/old/getting-started/</link>
       <pubDate>Fri, 23 Aug 2019 21:52:07 +0100</pubDate>
       
-      <guid>//damonreeve.github.io/hugo-demo/introduction/getting-started/</guid>
+      <guid>//damonreeve.github.io/hugo-demo/old/getting-started/</guid>
       <description>This is the second article.
 This is where I add some more text
 This is embedding an image: This is embedding HTML  
@@ -35,19 +157,19 @@ This is publishing a link:</description>
     
     <item>
       <title>Important</title>
-      <link>//damonreeve.github.io/hugo-demo/introduction/important/</link>
+      <link>//damonreeve.github.io/hugo-demo/old/important/</link>
       <pubDate>Fri, 23 Aug 2019 21:52:07 +0100</pubDate>
       
-      <guid>//damonreeve.github.io/hugo-demo/introduction/important/</guid>
+      <guid>//damonreeve.github.io/hugo-demo/old/important/</guid>
       <description>This is Saturday night trying to work out why it wont&amp;rsquo; work:(</description>
     </item>
     
     <item>
       <title>Welcome</title>
-      <link>//damonreeve.github.io/hugo-demo/introduction/welcome/</link>
+      <link>//damonreeve.github.io/hugo-demo/old/welcome/</link>
       <pubDate>Fri, 23 Aug 2019 21:52:07 +0100</pubDate>
       
-      <guid>//damonreeve.github.io/hugo-demo/introduction/welcome/</guid>
+      <guid>//damonreeve.github.io/hugo-demo/old/welcome/</guid>
       <description>This is the first article.
 adding a link to Why Ozone</description>
     </item>

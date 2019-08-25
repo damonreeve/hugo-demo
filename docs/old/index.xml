@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introductions on My New Hugo Site</title>
-    <link>//damonreeve.github.io/hugo-demo/introduction/</link>
-    <description>Recent content in Introductions on My New Hugo Site</description>
+    <title>Olds on My New Hugo Site</title>
+    <link>//damonreeve.github.io/hugo-demo/old/</link>
+    <description>Recent content in Olds on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Aug 2019 21:52:07 +0100</lastBuildDate>
     
-	<atom:link href="//damonreeve.github.io/hugo-demo/introduction/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//damonreeve.github.io/hugo-demo/old/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sample Document</title>
-      <link>//damonreeve.github.io/hugo-demo/introduction/sample/</link>
+      <link>//damonreeve.github.io/hugo-demo/old/sample/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>//damonreeve.github.io/hugo-demo/introduction/sample/</guid>
+      <guid>//damonreeve.github.io/hugo-demo/old/sample/</guid>
       <description>Header H1 Header H2 Header H3 Header Paragraph Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Getting Started</title>
-      <link>//damonreeve.github.io/hugo-demo/introduction/getting-started/</link>
+      <link>//damonreeve.github.io/hugo-demo/old/getting-started/</link>
       <pubDate>Fri, 23 Aug 2019 21:52:07 +0100</pubDate>
       
-      <guid>//damonreeve.github.io/hugo-demo/introduction/getting-started/</guid>
+      <guid>//damonreeve.github.io/hugo-demo/old/getting-started/</guid>
       <description>This is the second article.
 This is where I add some more text
 This is embedding an image: This is embedding HTML  
@@ -35,19 +35,19 @@ This is publishing a link:</description>
     
     <item>
       <title>Important</title>
-      <link>//damonreeve.github.io/hugo-demo/introduction/important/</link>
+      <link>//damonreeve.github.io/hugo-demo/old/important/</link>
       <pubDate>Fri, 23 Aug 2019 21:52:07 +0100</pubDate>
       
-      <guid>//damonreeve.github.io/hugo-demo/introduction/important/</guid>
+      <guid>//damonreeve.github.io/hugo-demo/old/important/</guid>
       <description>This is Saturday night trying to work out why it wont&amp;rsquo; work:(</description>
     </item>
     
     <item>
       <title>Welcome</title>
-      <link>//damonreeve.github.io/hugo-demo/introduction/welcome/</link>
+      <link>//damonreeve.github.io/hugo-demo/old/welcome/</link>
       <pubDate>Fri, 23 Aug 2019 21:52:07 +0100</pubDate>
       
-      <guid>//damonreeve.github.io/hugo-demo/introduction/welcome/</guid>
+      <guid>//damonreeve.github.io/hugo-demo/old/welcome/</guid>
       <description>This is the first article.
 adding a link to Why Ozone</description>
     </item>

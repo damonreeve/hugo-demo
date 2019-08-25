@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publisher Services on My New Hugo Site</title>
+    <link>//damonreeve.github.io/hugo-demo/service/for-publishers/</link>
+    <description>Recent content in Publisher Services on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//damonreeve.github.io/hugo-demo/service/for-publishers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bid Request Transmission</title>
+      <link>//damonreeve.github.io/hugo-demo/service/for-publishers/bid-request-transmission/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/service/for-publishers/bid-request-transmission/</guid>
+      <description> TODO  BR Transmission  Description - purpose, benefits, business model How it works - Run-time flow Service KPIs and SLAs Considerations  Legal Financial Data Policies  Controller / processor considerations Documents required (link to templates) Data flow   Getting started  Publishers requirements Setting up Managing Support    </description>
+    </item>
+    
+    <item>
+      <title>Curated Demand</title>
+      <link>//damonreeve.github.io/hugo-demo/service/for-publishers/curated-demand/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/service/for-publishers/curated-demand/</guid>
+      <description> TODO </description>
+    </item>
+    
+    <item>
+      <title>Managed Demand</title>
+      <link>//damonreeve.github.io/hugo-demo/service/for-publishers/managed-demand/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/service/for-publishers/managed-demand/</guid>
+      <description> TODO </description>
+    </item>
+    
+    <item>
+      <title>Ozone Audience</title>
+      <link>//damonreeve.github.io/hugo-demo/service/for-publishers/ozone-audience/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/service/for-publishers/ozone-audience/</guid>
+      <description> TODO  OA  MS Deals Data Room   </description>
+    </item>
+    
+    <item>
+      <title>Analytics and Insights</title>
+      <link>//damonreeve.github.io/hugo-demo/service/for-publishers/analytics/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/service/for-publishers/analytics/</guid>
+      <description> TODO </description>
+    </item>
+    
+  </channel>
+</rss>

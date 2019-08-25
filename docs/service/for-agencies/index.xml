@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agency Services on My New Hugo Site</title>
+    <link>//damonreeve.github.io/hugo-demo/service/for-agencies/</link>
+    <description>Recent content in Agency Services on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//damonreeve.github.io/hugo-demo/service/for-agencies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

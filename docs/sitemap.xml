@@ -3,33 +3,133 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//damonreeve.github.io/hugo-demo/introduction/sample/</loc>
+    <loc>//damonreeve.github.io/hugo-demo/service/for-publishers/bid-request-transmission/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/overview/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/service/for-publishers/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/overview/why-ozone/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/service/for-advertisers/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/service/for-publishers/curated-demand/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/overview/how-ozone/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/service/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/product-engineering/product-process/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/service/for-agencies/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/product-engineering/development-process/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/service/for-publishers/managed-demand/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/product-engineering/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/overview/what-ozone/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/service/for-publishers/ozone-audience/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/service/for-partners/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/overview/services-overview/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/product-engineering/technology-selection/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/service/for-publishers/analytics/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/product-engineering/components/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//damonreeve.github.io/hugo-demo/old/sample/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
     <loc>//damonreeve.github.io/hugo-demo/</loc>
-    <lastmod>2019-08-23T21:52:07+01:00</lastmod>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//damonreeve.github.io/hugo-demo/introduction/getting-started/</loc>
+    <loc>//damonreeve.github.io/hugo-demo/old/getting-started/</loc>
     <lastmod>2019-08-23T21:52:07+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//damonreeve.github.io/hugo-demo/introduction/important/</loc>
+    <loc>//damonreeve.github.io/hugo-demo/old/important/</loc>
     <lastmod>2019-08-23T21:52:07+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//damonreeve.github.io/hugo-demo/introduction/</loc>
+    <loc>//damonreeve.github.io/hugo-demo/old/</loc>
     <lastmod>2019-08-23T21:52:07+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//damonreeve.github.io/hugo-demo/introduction/welcome/</loc>
+    <loc>//damonreeve.github.io/hugo-demo/old/welcome/</loc>
     <lastmod>2019-08-23T21:52:07+01:00</lastmod>
   </url>
   

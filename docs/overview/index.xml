@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview on My New Hugo Site</title>
+    <link>//damonreeve.github.io/hugo-demo/overview/</link>
+    <description>Recent content in Overview on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//damonreeve.github.io/hugo-demo/overview/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why Ozone</title>
+      <link>//damonreeve.github.io/hugo-demo/overview/why-ozone/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/overview/why-ozone/</guid>
+      <description>Ozone was borne out of a shared belief in the rights and interests of consumers, publishers and advertisers.
+TODO Take content the docs to be sent to guardian summarise slides but add a perspective about the advertiser and needing greater choice. Is there a reader first model?</description>
+    </item>
+    
+    <item>
+      <title>How Ozone</title>
+      <link>//damonreeve.github.io/hugo-demo/overview/how-ozone/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/overview/how-ozone/</guid>
+      <description>TODO How Ozone: What we believe in and principles of business - Change rules of engagement - Publisher voice - Data leakage - Reader first mindset - guardian of user</description>
+    </item>
+    
+    <item>
+      <title>What Ozone</title>
+      <link>//damonreeve.github.io/hugo-demo/overview/what-ozone/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/overview/what-ozone/</guid>
+      <description>What is Ozone and how does it work? Ozone provides advertisers, publishers and their programmatic partners with a range of services for advertisers to reach audiences and for publishers to monetise their content and audience from advertising.
+Described here is a high-level overview of the programmatic ecosystem and how Ozone fits into this.
+Programmatic Advertising - at its most simple level PublishersPublishersAdvertisersAdvertisersAd TechAd Tech
+Next PublishersPublishersAdvertisersAdvertisersSSPSSPDSPDSPAgency Trading Desks / Managed Services[Not supported by viewer]DFPDFPAnalytics / Data / DMP / CDPAnalytics / Data / DMP / CDP</description>
+    </item>
+    
+    <item>
+      <title>Services Summary</title>
+      <link>//damonreeve.github.io/hugo-demo/overview/services-overview/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//damonreeve.github.io/hugo-demo/overview/services-overview/</guid>
+      <description>TODO Describe services which are customer facing.
+maybe organise by each stakeholder</description>
+    </item>
+    
+  </channel>
+</rss>
