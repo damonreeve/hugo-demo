@@ -1,6 +1,6 @@
 baseURL = "//damonreeve.github.io/hugo-demo/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Ozone Platform Documentation"
 theme = "techdoc"
 #theme = "hugo-primer"
 # theme = "ananke"
