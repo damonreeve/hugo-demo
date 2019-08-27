@@ -82,9 +82,8 @@ TODO Take content the docs to be sent to guardian summarise slides but add a per
       
       <guid>//damonreeve.github.io/hugo-demo/overview/what-ozone/</guid>
       <description>What is Ozone and how does it work? Ozone provides advertisers, publishers and their programmatic partners with a range of services for advertisers to reach audiences and for publishers to monetise their content and audience from advertising.
-Described here is a high-level overview of the programmatic ecosystem and how Ozone fits into this.
-Programmatic Advertising - at its most simple level PublishersPublishersAdvertisersAdvertisersAd TechAd Tech
-Next PublishersPublishersAdvertisersAdvertisersSSPSSPDSPDSPAgency Trading Desks / Managed Services[Not supported by viewer]DFPDFPAnalytics / Data / DMP / CDPAnalytics / Data / DMP / CDP</description>
+Described here is a high-level overview of the programmatic ecosystem and Ozone&amp;rsquo;s role.
+Programmatic Advertising - The Helicoptor View At it&amp;rsquo;s most simple level programmatic advertising involves publishers and advertisers interacting with AdTech companies (we&amp;rsquo;ll call them Ad Partners) that are a middlemen or brokers in the process of buying and selling advertising inventory and reaching audiences.</description>
     </item>
     
     <item>
