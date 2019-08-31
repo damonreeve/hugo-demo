@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Ozone Platform Documentation</title>
     <link>//damonreeve.github.io/hugo-demo/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Ozone Platform Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
@@ -17,17 +17,9 @@
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>//damonreeve.github.io/hugo-demo/service/for-publishers/bid-request-transmission/</guid>
-      <description> TODO  BR Transmission  Description - purpose, benefits, business model How it works - Run-time flow Service KPIs and SLAs Considerations  Legal Financial Data Policies  Controller / processor considerations Documents required (link to templates) Data flow   Getting started  Publishers requirements Setting up Managing Support    </description>
-    </item>
-    
-    <item>
-      <title>Why Ozone</title>
-      <link>//damonreeve.github.io/hugo-demo/overview/why-ozone/</link>
-      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>//damonreeve.github.io/hugo-demo/overview/why-ozone/</guid>
-      <description>Ozone was borne out of a shared belief in the rights and interests of consumers, publishers and advertisers.
-TODO Take content the docs to be sent to guardian summarise slides but add a perspective about the advertiser and needing greater choice. Is there a reader first model?</description>
+      <description> Description purpose, benefits, business model
+How it works Run-time flow
+Service KPIs and SLAs Things to Consider Legal Financial Data Policies  Controller / processor considerations Documents required (link to templates) Data flow  Getting started  Publishers requirements Setting up Managing Support  </description>
     </item>
     
     <item>
@@ -45,7 +37,9 @@ TODO Take content the docs to be sent to guardian summarise slides but add a per
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>//damonreeve.github.io/hugo-demo/overview/how-ozone/</guid>
-      <description>TODO How Ozone: What we believe in and principles of business - Change rules of engagement - Publisher voice - Data leakage - Reader first mindset - guardian of user</description>
+      <description>TODO How Ozone: What we believe in and principles of business
+ Change rules of engagement Publisher voice Data leakage Reader first mindset - guardian of user
+  Again take content from the Guardian docs</description>
     </item>
     
     <item>
@@ -81,9 +75,9 @@ TODO Take content the docs to be sent to guardian summarise slides but add a per
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>//damonreeve.github.io/hugo-demo/overview/what-ozone/</guid>
-      <description>What is Ozone and how does it work? Ozone provides advertisers, publishers and their programmatic partners with a range of services for advertisers to reach audiences and for publishers to monetise their content and audience from advertising.
-Described here is a high-level overview of the programmatic ecosystem and Ozone&amp;rsquo;s role.
-Programmatic Advertising - The Helicoptor View At it&amp;rsquo;s most simple level programmatic advertising involves publishers and advertisers interacting with AdTech companies (we&amp;rsquo;ll call them Ad Partners) that are a middlemen or brokers in the process of buying and selling advertising inventory and reaching audiences.</description>
+      <description>What is Ozone and how does it work? Ozone provides advertisers, publishers and their programmatic partners with a range of services that enable
+ advertisers to reach engaged audiences at scale in quiality contextual environments; and publishers to monetise their content and audience from advertising  Described here is a high-level overview of the programmatic ecosystem and Ozone&amp;rsquo;s role.
+Programmatic Advertising - The Helicoptor View At it&amp;rsquo;s most simple level programmatic advertising involves publishers and advertisers interacting with advertising technology companies (we&amp;rsquo;ll call them Ad Partners), who operate as a middlemen or brokers in the process of buying and selling advertising inventory.</description>
     </item>
     
     <item>
@@ -101,8 +95,8 @@ Programmatic Advertising - The Helicoptor View At it&amp;rsquo;s most simple lev
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>//damonreeve.github.io/hugo-demo/overview/services-overview/</guid>
-      <description>TODO Describe services which are customer facing.
-maybe organise by each stakeholder</description>
+      <description>Ozone provides the following advertising services:
+ table, th, td { border: 1px solid #EEE; }   Customer Service Description   Publishers Bid Request Transmission Server-to-server transmission of bid requests to Ad Partners under a publisher &amp;gt; Ad Partner Agreement   Managed Demand Monetisation of Publisher inventory and data through Ozone Audience to Advertisers &amp;amp; Ad Partners   Curated Demand Monetisation of Publisher inventory to Ad Partners under an Ozone &amp;gt; Ad Partner Agreement   Insights and Analytics Dashboards, Insights reports and log-level data   Advertisers and Agencies Ozone Audience Managed Service Managed delivery of audience targeting campaigns   Ozone Audience Deals Audience targeting made available through self-serve deals   Ozone Audience Buyer Console Coming Soon   Planning and Insights Audience Planning API (coming soon), Campaign Dashboards, Insights reports and log-level data   Data Room Compliant merging of audience data for custom audience targeting and insights   Ad Partners Bid Request Transmission Server-to-server transmission of bid requests to Ad Partners under a publisher &amp;gt; Ad Partner Agreement   Curated Supply Monetisation of Publisher inventory to Ad Partners under an Ozone &amp;gt; Ad Partner Agreement</description>
     </item>
     
     <item>

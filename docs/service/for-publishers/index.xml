@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publisher Services on My New Hugo Site</title>
+    <title>Publisher Services on Ozone Platform Documentation</title>
     <link>//damonreeve.github.io/hugo-demo/service/for-publishers/</link>
-    <description>Recent content in Publisher Services on My New Hugo Site</description>
+    <description>Recent content in Publisher Services on Ozone Platform Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
@@ -17,7 +17,9 @@
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>//damonreeve.github.io/hugo-demo/service/for-publishers/bid-request-transmission/</guid>
-      <description> TODO  BR Transmission  Description - purpose, benefits, business model How it works - Run-time flow Service KPIs and SLAs Considerations  Legal Financial Data Policies  Controller / processor considerations Documents required (link to templates) Data flow   Getting started  Publishers requirements Setting up Managing Support    </description>
+      <description> Description purpose, benefits, business model
+How it works Run-time flow
+Service KPIs and SLAs Things to Consider Legal Financial Data Policies  Controller / processor considerations Documents required (link to templates) Data flow  Getting started  Publishers requirements Setting up Managing Support  </description>
     </item>
     
     <item>
